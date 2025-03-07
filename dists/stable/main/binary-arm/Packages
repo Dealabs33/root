@@ -1,0 +1,12 @@
+Package: root
+Architecture: all
+Version: 1.0
+Maintainer: DECODER
+Filename: pool/main/root_1.0.deb
+Size: 1596
+MD5sum: 8ce7bcc5478800bb1cf027acf9effc68
+SHA1: 21c46e08fbc6eefbc437fb6f3d1bd9205b9f8217
+SHA256: 8845351920c72957e3602c83dca87427f3b55324830ec13a708056f9a4359f38
+SHA512: 8ec2b720a13d5eb4af4e9f3b7415927f0f5bfe0b56ff727a70cebd91f4fe51c6b7e4321a951e5dff8306c584a3229ac79c5d80f04adaf2801515f7cbd584a25d
+Description: A custom ADB script to manage Android devices without ADB package.
+

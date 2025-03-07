@@ -1,0 +1,25 @@
+Date: Fri, 07 Mar 2025 08:31:55 +0000
+MD5Sum:
+ 89466e142ba0982f123a151b59a1da56               38 Release
+ 33e8795518ca2ceb47732cd62095ce46              500 main/binary-all/Packages
+ 41048ee39634fd43a634e466d346049e               29 main/binary-all/Packages.gz
+ 78bfdedb746189349abe41ff64665b40              488 main/binary-arm/Packages
+ 53bb9326e8675f130cb872644c2f23bc              376 main/binary-arm/Packages.gz
+SHA1:
+ 8d3bd8ce5f72073608adf996cfb0022c40a94f5d               38 Release
+ bed349381ea6f2b070a6cd60ba9c64966047dc5a              500 main/binary-all/Packages
+ 8d661ace6a223fdb83ac958f145125ec200b2e83               29 main/binary-all/Packages.gz
+ 4026dad6c1115f906a335b21c30e11825326c3d8              488 main/binary-arm/Packages
+ 56281630fbd3f75bf00e1c21493f39568bb5c776              376 main/binary-arm/Packages.gz
+SHA256:
+ f03a2fe93407eb4238d6c8cf09407d706f0ac7224c378ceaceaab3d14091f37d               38 Release
+ 342bd2400eb0184fc0a4671f05d0b00f2faed72cf0d98b96f7fae10c6c2f8e9b              500 main/binary-all/Packages
+ e78e9566576be6322677842d7cb3fdf45b7539afb091eaebff8c99dc8ada2661               29 main/binary-all/Packages.gz
+ 0c2bfa9bc5a84c9bfb886d703b2b9efc1ede55d0a08e0b945fd8e819e91f2171              488 main/binary-arm/Packages
+ a952a286e1f4e53dd254948a7d0c1e3a1076d8a9227f0bedfa5c0a2215f74463              376 main/binary-arm/Packages.gz
+SHA512:
+ 846738cbe568da64c116884bc81b79f7f41420d6ae4a05a47ad35d81c71d0ce0141a5a004ae6153f987209b0274c09b105dee5cf41c65a026f20b2befc84a093               38 Release
+ c4b143a4cda0652b5b5832f08da52bbfca49f68ee12532ba927bb748d61d9712d11c855efc64f8e281e940f5521720d011e10b6f9e39103879f20f78a4c74fd6              500 main/binary-all/Packages
+ da5db5bcfce8214b76012c374ffb980c104b2efa03f2d2c251f409f2a9bdf6501e60887c69ce323270f9fd9cf1989f913abcea0065a483ed6a5691345a30ea7c               29 main/binary-all/Packages.gz
+ 1c06e17cb6e80768ec6ad97ca79e80e187bd5a7a78aa7e6833267b1edfce3d30ef9fe7920a6943429375dafc70b041fc136371eeb47abca7fb803912f77118cd              488 main/binary-arm/Packages
+ 5a247d88dceefd6a4e189c9b11c3daa3b0fb0ae05659aa1dc8c366d55edea1fe93817ee115ce8ef2ca3606d4aeda5348f1006b83d56b450c7b10718b51fe5f44              376 main/binary-arm/Packages.gz
